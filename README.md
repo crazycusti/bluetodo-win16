@@ -28,3 +28,5 @@ Ausgabe:
 ## Lizenz
 
 MIT, siehe `LICENSE`.
+
+Mit Hilfe von codex-cli ❤️ erstellt, danke!
