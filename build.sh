@@ -3,7 +3,7 @@ set -eu
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 VERSION_HEADER="$SCRIPT_DIR/client_version.h"
-DEFAULT_VERSION="0.8.4"
+DEFAULT_VERSION="0.9.0"
 
 write_version_header() {
   local version="$1"
