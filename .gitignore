@@ -1,0 +1,7 @@
+*.err
+*.exe
+*.map
+*.o
+*.res
+*.md
+!README.md
