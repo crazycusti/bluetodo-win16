@@ -5,3 +5,4 @@
 *.res
 *.md
 !README.md
+/dist/
